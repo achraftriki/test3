@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test2</groupId>
 	<artifactId>SampleExample</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<dependencies>
@@ -14,8 +14,6 @@
 		</dependency>
 
 	</dependencies>
-	
-	
 	
 	<build>
 		<sourceDirectory>src</sourceDirectory>
